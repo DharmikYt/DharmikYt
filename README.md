@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DharmikYt
-- 👀 I’m interested in ...Python,Dbd.js,html,js,Nodejs
+- 👀 I’m interested in ...Python,Aoi.js,html,js,Nodejs
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...html
 - 📫 How to reach me ... dharmikthej@gmail.com
